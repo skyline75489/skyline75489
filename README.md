@@ -1,1 +1,3 @@
-I have a Douyin(🇨🇳version of TikTok) account named “小刘不是程序员” (id = ljk321_0) and I occasionally post vids there. Take a look if you want :)
+<a href="#stats" align="center">
+    <img align="center" alt="Chester Liu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=skyline75489&count_private=true&show_icons=true&include_all_commits=true&show_owner=true"/>
+</a>
